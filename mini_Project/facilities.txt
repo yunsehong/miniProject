@@ -1,0 +1,4 @@
+음식점, 맥도날드, 서울시 강남구 ooo로 oo번 oo로, 010-0000-0000, images/map.PNG
+호텔, 힐튼, 서울시 강남구 ooo로 oo번 oo로, 010-0000-0000, images/map.PNG
+은행, 국민은행, 서울시 강남구 ooo로 oo번 oo로, 010-0000-0000, images/map.PNG
+카페, 스무디킹, 서울시 강남구 ooo로 oo번 oo로, 010-0000-0000, images/map.PNG
